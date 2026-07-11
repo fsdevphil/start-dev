@@ -14,6 +14,12 @@ My Start.dev coursework.
 ### Self-Closing Tags
 - /> is optional
 
+### Comments
+- Section labels
+- TODO markers
+- Temp hiding code
+- Explanations
+
 ## Resources
 
 - Unsplash
