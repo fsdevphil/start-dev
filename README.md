@@ -1,6 +1,6 @@
 # >_ start.dev
 
-My Start.dev coursework
+My Start.dev exercise solutions
 
 ## Best Practices
 
