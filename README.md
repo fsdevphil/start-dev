@@ -13,6 +13,7 @@ My Start.dev exercise solutions
 - 2 spaces for indentation
 - Only one `<h1>` element per page (a11y and SEO)
 - Don't skip heading levels (a11y and SEO)
+- Always wrap values in quotes - common convention is `"`
 
 #### Alt Attribute
 
