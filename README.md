@@ -11,14 +11,13 @@ My Start.dev exercise solutions
 - `<!DOCTYPE html>` common convention is UPPERCASE
 - `<title>` a11y and SEO
 - 2 spaces for indentation
-- Only one `<h1>` element per page
-- Don't skip heading levels
+- Only one `<h1>` element per page (a11y and SEO)
+- Don't skip heading levels (a11y and SEO)
 
 #### Alt Attribute
 
-- Always include it
+- Always include it (a11y)
 - One short sentence description
-- a11y
 - Use `alt=""` for decorative images
 
 #### Self-Closing Tags
