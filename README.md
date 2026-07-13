@@ -2,17 +2,27 @@
 
 My Start.dev exercise solutions
 
-## Best Practices
+## Notes
 
-### Alt Attribute
+### Best Practices
+
+#### General
+
+- `<!DOCTYPE html>` common convention is UPPERCASE
+- `<title>` a11y and SEO
+- 2 spaces for indentation
+- Only one `<h1>` element per page
+- Don't skip heading levels
+
+#### Alt Attribute
 
 - Always include it
 - One short sentence description
-- For accessibility
-- Use alt="" for decorative images
+- a11y
+- Use `alt=""` for decorative images
 
-### Self-Closing Tags
-- /> is optional
+#### Self-Closing Tags
+- `/>` is optional
 
 ### Comments
 - Section labels
@@ -20,7 +30,7 @@ My Start.dev exercise solutions
 - Temp hiding code
 - Explanations
 
-## Resources
+### Resources
 
 - Unsplash
 - placehold.co
