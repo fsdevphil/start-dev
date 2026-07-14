@@ -51,6 +51,9 @@ My Start.dev exercise solutions
 - Can I Use
 - CSS-Tricks
 - CodePen
+- Smashing Magazine
 - Unsplash
 - placehold.co
-- 
+- The Pragmatic Programmer
+- Designing Data-Intensive Applications
+- A Philosophy of Software Design
