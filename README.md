@@ -21,12 +21,11 @@ My Start.dev exercise solutions
 - Use `target="_blank"` for external links
 - `id`s should be short, unique, lowercase, and hyphenated
 - Don't mis-use the `<br>` element
-- Use `lang="en` in opening `<html>` tag (a11y, i18n, and seo)
+- Use `lang="en"` in opening `<html>` tag (a11y, i18n, and seo)
 - Use `utf-8` charset (i18n)
 - Use `viewport` meta tag (rwd)
 - Use `mailto:` and `tel:` for email and phone links (rwd)
 - Semantics over presention (a11y and seo)
-- 
 
 #### Alt Attribute
 
