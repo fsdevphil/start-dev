@@ -37,5 +37,12 @@ My Start.dev exercise solutions
 
 ### Resources
 
+- MDN
+- GitHub
+- Hacker News
+- Can I Use
+- CSS-Tricks
+- CodePen
 - Unsplash
 - placehold.co
+- 
