@@ -4,6 +4,10 @@ My Start.dev exercise solutions
 
 ## Notes
 
+### Things I Forget
+
+- Use `https://` at start of external links
+
 ### Best Practices
 
 #### General
@@ -14,6 +18,7 @@ My Start.dev exercise solutions
 - Only one `<h1>` element per page (a11y and SEO)
 - Don't skip heading levels (a11y and SEO)
 - Always wrap values in `"`
+- Use `target="_blank"` for external links
 
 #### Alt Attribute
 
