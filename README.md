@@ -26,7 +26,7 @@ My Start.dev exercise solutions
 - Use `viewport` meta tag (rwd)
 - Use `mailto:` and `tel:` for email and phone links (rwd)
 - Semantics over presention (a11y and seo)
-- Don't overnest lists - max 2 levels
+- Don't over-nest lists - max 2 levels
 
 #### Alt Attribute
 
