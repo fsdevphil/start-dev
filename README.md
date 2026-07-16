@@ -28,7 +28,13 @@ My Start.dev exercise solutions
 - Semantics over presention (a11y and seo)
 - Don't over-nest lists - max 2 levels
 - Only use `<div>`s for non-semantic grouping (a11y and seo)
-- 
+
+#### Classes
+
+- You can add a `class` to any element
+- The same `class` can be applied to multiple elements
+- An element can belong to several `class`es
+- A `class` is for you and your tools, NOT the browser
 
 #### Alt Attribute
 
