@@ -27,6 +27,8 @@ My Start.dev exercise solutions
 - Use `mailto:` and `tel:` for email and phone links (rwd)
 - Semantics over presention (a11y and seo)
 - Don't over-nest lists - max 2 levels
+- Only use `<div>`s for non-semantic grouping (a11y and seo)
+- 
 
 #### Alt Attribute
 
