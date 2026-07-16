@@ -13,7 +13,7 @@ My Start.dev exercise solutions
 #### General
 
 - `<!DOCTYPE html>` common convention is UPPERCASE
-- `<title>` a11y and SEO
+- `<title>` a11y and seo
 - 2 spaces for indentation
 - Only one `<h1>` element per page (a11y and seo)
 - Don't skip heading levels (a11y and seo)
