@@ -35,6 +35,7 @@ My Start.dev exercise solutions
 - Use the most specific element that fits
 - Only use `<div>`s for non-semantic grouping
 - Use semantic `class` names
+- Only one `main` element 
 
 ### Comments
 - Section labels
