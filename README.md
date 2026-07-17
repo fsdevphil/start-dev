@@ -35,7 +35,10 @@ My Start.dev exercise solutions
 - Use the most specific element that fits
 - Only use `<div>`s for non-semantic grouping
 - Use semantic `class` names
-- Only one `main` element 
+- Only one `<main>` (a11y)
+- Use `<article>` for independent content
+- Use `<section>` for themed content
+- Every `article` and `<section>` should have a heading (a11y) 
 
 ### Comments
 - Section labels
