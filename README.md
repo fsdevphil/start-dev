@@ -28,6 +28,7 @@ My Start.dev exercise solutions
 - Semantics over presention (a11y and seo)
 - Don't over-nest lists - max 2 levels
 - Use semantic elements (a11y and seo)
+- Use the most specific element that fits
 - Only use `<div>`s for non-semantic grouping
 - Use semantic `class` names
 
