@@ -15,9 +15,13 @@ My Start.dev exercise solutions
 - `<!DOCTYPE html>` common convention is UPPERCASE
 - `<title>` a11y and seo
 - 2 spaces for indentation
+-  `/>` is optional for void elements
 - Only one `<h1>` element per page (a11y and seo)
 - Don't skip heading levels (a11y and seo)
 - Always wrap values in `"`
+- Always include `alt` text for images (a11y and seo)
+- One short descriptive sentence for `alt` text (a11y and seo)
+- Use `alt=""` for decorative images (a11y)
 - Use `target="_blank"` for external links
 - `id`s should be short, unique, lowercase, and hyphenated
 - Don't mis-use the `<br>` element
@@ -31,15 +35,6 @@ My Start.dev exercise solutions
 - Use the most specific element that fits
 - Only use `<div>`s for non-semantic grouping
 - Use semantic `class` names
-
-#### Alt Attribute
-
-- Always include it (a11y)
-- One short descriptive sentence
-- Use `alt=""` for decorative images
-
-#### Self-Closing Tags
-- `/>` is optional
 
 ### Comments
 - Section labels
