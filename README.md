@@ -33,7 +33,7 @@ My Start.dev exercise solutions
 - Don't over-nest lists - max 2 levels
 - Use semantic elements (a11y and seo)
 - Use the most specific element that fits
-- Only use `<div>`s for non-semantic grouping
+- Only use `<div>`s for non-semantic grouping (css)
 - Use semantic `class` names
 - Only one `<main>` (a11y)
 - Use `<article>` for independent content
