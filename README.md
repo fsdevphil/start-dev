@@ -38,7 +38,8 @@ My Start.dev exercise solutions
 - Only one `<main>` (a11y)
 - Use `<article>` for independent content
 - Use `<section>` for themed content
-- Every `article` and `<section>` should have a heading (a11y) 
+- Every `<article>` and `<section>` should have a heading (a11y)
+- Use `<figure>` and `<figcaption>` to group 2 items together (a11y and seo)
 
 ### Comments
 - Section labels
