@@ -4,9 +4,10 @@ My Start.dev exercise solutions
 
 ## Notes
 
-### Things I Forget
+### Things I Always Forget
 
 - Use `https://` at start of external links
+- `<iframe>`s need a closing tag
 
 ### Best Practices
 
@@ -40,6 +41,7 @@ My Start.dev exercise solutions
 - Use `<section>` for themed content
 - Every `<article>` and `<section>` should have a heading (a11y)
 - Use `<figure>` and `<figcaption>` to group 2 items together (a11y and seo)
+- Give every `<iframe>` a `title` (a11y)
 
 ### Comments
 - Section labels
