@@ -42,6 +42,7 @@ My Start.dev exercise solutions
 - Every `<article>` and `<section>` should have a heading (a11y)
 - Use `<figure>` and `<figcaption>` to group 2 items together (a11y and seo)
 - Give every `<iframe>` a `title` (a11y)
+- Form methods `POST` and `GET` - common convention is UPPERCASE
 
 ### Comments
 - Section labels
